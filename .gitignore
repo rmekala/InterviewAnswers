@@ -1,0 +1,13 @@
+/Meme/.classpath
+/Meme/.project
+/Meme/bin/com/ravi/MemeService$1.class
+/Meme/bin/com/ravi/MemeService.class
+/Meme/bin/com/ravi/model/Meme.class
+/TaxPerson/.classpath
+/TaxPerson/.project
+/TaxPerson/bin/com/ravi/taxperson/Calculator.class
+/TaxPerson/bin/com/ravi/taxperson/model/Item.class
+/TaxPerson/bin/com/ravi/taxperson/strategy/Type$1.class
+/TaxPerson/bin/com/ravi/taxperson/strategy/Type$2.class
+/TaxPerson/bin/com/ravi/taxperson/strategy/Type.class
+/TaxPerson/bin/com/ravi/taxperson/strategy/TypeOperation.class
